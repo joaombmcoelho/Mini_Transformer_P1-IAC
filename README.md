@@ -1,1 +1,4 @@
-# Mini_Transformer_P1-IAC
+# Intro to Mini-transformer
+
+### Final Grade
+* 20/20
