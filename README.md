@@ -1,4 +1,4 @@
-# Intro to Mini-transformer - Introduction to Computer Architecture
+# Mini-Transformer Vector Operations - Introduction to Computer Architecture
 Assembly RISC-V implementation of fundamental mathematical operations for a simplified machine learning attention mechanism (Mini-Transformer)
 
 ### Team
